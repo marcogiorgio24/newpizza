@@ -8,16 +8,7 @@
             { "url": "heroku/google-chrome" },
             { "url": "heroku/python" }
           ],
-    "env": {
-            "email": {
-              "description": "Stormgain's email.",
-              "value": "example@gmail.com"
-            },
-            "password": {
-              "description": "Stormgain's password.",
-              "value": "example"
-            }
-          }
+    
     
 }
   
